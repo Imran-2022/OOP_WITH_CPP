@@ -1,0 +1,66 @@
+/------------------------------------------------------------- File_Management in C++ -----------------------------------------------
+
+// #### Menu-Driven File Operation Problem in C++
+
+// Write a C++ program that allows the user to:
+
+// 1. **Create a new file** and write text into it.
+// 2. **Read** the contents of an existing file.
+// 3. **Append** text to an existing file.
+// 4. **Delete** a file.
+// 5. **Exit** the program.
+
+// ---
+
+// #### Requirements
+
+// - Use `<fstream>` for file handling.
+// - Implement proper error handling if the file doesn’t exist.
+// - Use the `remove()` function for deleting files.
+
+
+/------------------------------------------------ Friend Function and Friend class ------------------------------
+
+-- operator overloading using friend function.
+-- add two number using freind function
+-- example of friend function 
+-- friend class 
+
+/---------------------------------------- polymorphism ---------------------------
+
+polymorphism example 
+binary_operator_overloading
+binary overload complex. 
+function overriding 
+operator overloading 
+pure_virtual function 
+unary_opertor overloading 
+virtual function 
+
+/---------------------------------------- inheritance ----------------------------
+
+reallife example 
+constructor inheritance 
+single 
+multilevel
+multiple
+hierarchi
+hybrid
+lab task1 
+lab task2
+lab task3
+lab task4
+test 
+
+/---------------------------------------- abstraction ----------------------------
+
+-- test.......... 
+
+/---------------------------------------- Encamsulation --------------------------
+
+-- a ral example 
+-- abstration 
+-- encapsulation
+
+/---------------------------------------- Constructor ----------------------------
+-- test

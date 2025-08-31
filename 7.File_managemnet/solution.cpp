@@ -8,6 +8,7 @@ void createAndWriteFile() {
     string filename, content;
     cout << "Enter filename: ";
     cin >> filename;
+    filename += ".txt"; // <--- Add this line to append .txt
     cin.ignore(); // clear newline from buffer
     cout << "Enter content (end with a blank line):\n";
     string line;
